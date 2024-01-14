@@ -1,6 +1,7 @@
 # Bloodhunt-Dump
 
 **Known Structs:**
+
 Gamebase.GWORD -> 0x5d209c0
 
 Gamebase.GNAMES -> 0x5bd92c0
